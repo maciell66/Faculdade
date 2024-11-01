@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+Desenvolvimento de um Jogo da Memória sobre o Folclore de Campos dos Goytacazes: Um Case de Sucesso em React Native
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Contextualização:
 
-## Available Scripts
+O desenvolvimento do jogo da memória sobre o folclore de Campos dos Goytacazes, com foco nas crianças do condomínio Castro Faria, proporcionou uma imersão profunda na rica cultura local. A experiência permitiu compreender a importância de preservar e difundir o folclore regional, especialmente para as novas gerações. Ao abordar elementos do folclore local como o Ururau da Lapa, o Festival da Cavalhada, a dança do Jongo e o Boi Pintadinho, o projeto visou não apenas entreter, mas também educar as crianças sobre a história e as tradições da cidade.
 
-In the project directory, you can run:
+A escolha do React Native como ferramenta de desenvolvimento foi estratégica, pois possibilitou a criação de um aplicativo nativo para Android de forma rápida e eficiente. A plataforma, baseada em JavaScript, permitiu a reutilização de componentes e a criação de uma interface intuitiva e atraente para crianças de 3 a 7 anos.
 
-### `npm start`
+2. Metodologia:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Planejamento e Design:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Pesquisa: Realizei uma pesquisa aprofundada sobre o folclore de Campos dos Goytacazes, coletando informações sobre as lendas, personagens e elementos visuais.
 
-### `npm test`
+Design de personagens e cenários: Desenvolvi artes originais inspiradas no folclore local, utilizando uma linguagem visual lúdica e colorida.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Desenvolvimento:
 
-### `npm run build`
+React Native: Utilizei o React Native para construir a interface do usuário e a lógica do jogo.
+Componentes reutilizáveis: Criei componentes personalizados para facilitar a manutenção e a expansão do aplicativo.
+Animações: Implementei animações suaves e interativas para tornar o jogo mais envolvente.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Refinamento:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Iterações: A partir dos testes, realizei ajustes na interface, na jogabilidade e nos conteúdos.
 
-### `npm run eject`
+Documentação:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Código:
+Mantive o código bem organizado e comentado para facilitar a manutenção e futuras atualizações.
+Utilizei o Node.js através do NPM para escrever o código baseado em React Native
+Publiquei toda a documentação no GITHub para a avaliação do trabalho
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Resultados:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Adesão: Tive dificuldades de aplicar o jogo com as crianças por questões de tempo. Apliquei com poucas crianças.
+Engajamento das crianças: O jogo da memória demonstrou ser uma ferramenta eficaz para despertar o interesse das crianças pelo folclore local, contribuindo para a preservação da cultura.
+Aprendizado: As crianças aprenderam sobre as lendas, personagens e tradições de Campos dos Goytacazes de forma divertida e interativa.
+Feedback positivo: Os pais destacaram a qualidade do aplicativo, a beleza das ilustrações e a importância de oferecer conteúdo cultural para as crianças.
+Potencial educativo: O jogo pode ser utilizado como ferramenta pedagógica em escolas e creches, complementando o ensino de história e cultura.
 
-## Learn More
+Conclusão:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O desenvolvimento do jogo da memória sobre o folclore de Campos dos Goytacazes demonstrou o potencial das tecnologias móveis para a educação e a preservação cultural. A experiência permitiu unir a paixão pela programação com o desejo de contribuir para a comunidade, proporcionando um legado cultural para as futuras gerações.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Possíveis Próximas Etapas:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Expansão do conteúdo: Adicionar novas lendas e personagens ao jogo.
